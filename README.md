@@ -1,5 +1,4 @@
-# assembly-1stHW-
-assembly macro &amp;assembly procedure
+# assembly-second HW-
 
 # Notes
 1)the project has .pdf file , it contain the descreaption of homework.  
